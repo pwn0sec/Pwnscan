@@ -5,7 +5,7 @@ Pwnscan is a simple tool that helps you with:
 - Find subdomains.
 - Find some headers misconfiguration.
 - `All results will be save in HTML file`
-     
+      
 # Installation
 ```
 git clone https://github.com/pwn0sec/pwnscan.git
