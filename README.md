@@ -1,5 +1,5 @@
 # PwnScan 0.1
-Shalfa is a simple tool that helps you with:
+Pwnscan is a simple tool that helps you with:
 - Extract URLs.
    - From website and Wayback Machine
 - Find subdomains.
