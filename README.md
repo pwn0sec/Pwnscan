@@ -17,8 +17,6 @@ pip3 install requirements.txt
 ```python
 python3 pwnscan.py -u https://example.com
 ```
-# Screencast
-![](https://github.com/Pwn0sec/PwnScan/blob/main/Screencast.gif)
 
 #### ToDo
 ```
