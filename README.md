@@ -13,7 +13,7 @@ cd PwnScan
 pip3 install requirements.txt
 ```
 
-# Usage
+# Usage 
 ```python
 python3 pwnscan.py -u https://example.com
 ```
