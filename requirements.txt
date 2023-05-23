@@ -1,2 +1,2 @@
 mechanize==0.4.5
-requests==2.24.0
+requests==2.31.0
